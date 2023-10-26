@@ -1,0 +1,55 @@
+.mainhead{
+    text-align: center;
+    font-size: 2.5rem;
+margin-top: 10px;
+gap: 10;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.imagediv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 350px;
+    height: 350px;
+    gap: 10px;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    margin-top: 10px;
+    overflow: hidden;
+}
+img{
+    justify-content: center;
+}
+#maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#submit{
+    text-align: center;
+}
+#input{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 15px;
+    font-size: 0.9rem;
+}
+#btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
